@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>melakukan register</description>
+   <name>traveloka sign up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63220822-3507-4ee5-a3c5-6c37f447ab51</testCaseGuid>
+</TestCaseEntity>
