@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+duoapp,,,,2022-11-01 14:43:12,2022-11-01 14:44:25,1m - 12.555s,PASSED
+,,,,,,,
+Test Cases/calculator/ record testing,,,,2022-11-01 14:43:13,2022-11-01 14:43:56,43.360s,PASSED
+"startApplication(""C:\Users\acer\AppData\Roaming\npm\node_modules\appium\testingggg\EduApp\app-pendaki.apk"", true)",,,,2022-11-01 14:43:13,2022-11-01 14:43:45,31.446s,PASSED
+"tap(findTestObject(""Object Repository/yah testing record/android.widget.ImageButton""), 0)",,,,2022-11-01 14:43:45,2022-11-01 14:43:47,2.543s,PASSED
+"tap(findTestObject(""Object Repository/yah testing record/android.widget.CheckedTextView - Peralatan""), 0)",,,,2022-11-01 14:43:47,2022-11-01 14:43:49,2.033s,PASSED
+"tap(findTestObject(""Object Repository/yah testing record/android.widget.TextView - Tenda""), 0)",,,,2022-11-01 14:43:49,2022-11-01 14:43:52,3.066s,PASSED
+closeApplication(),,,,2022-11-01 14:43:52,2022-11-01 14:43:56,3.611s,PASSED
+,,,,,,,
+Test Cases/calculator/chosetheme,,,,2022-11-01 14:43:56,2022-11-01 14:44:25,28.552s,PASSED
+"startApplication(""EduApp\calculator.apk"", false)",,,,2022-11-01 14:43:57,2022-11-01 14:44:19,22.463s,PASSED
+"tap(findTestObject(""calculators/android.widget.Button - 8""), 0)",,,,2022-11-01 14:44:19,2022-11-01 14:44:21,2.244s,PASSED
+"tap(findTestObject(""calculators/android.widget.Button -""), 0)",,,,2022-11-01 14:44:21,2022-11-01 14:44:23,1.213s,PASSED
+"tap(findTestObject(""calculators/android.widget.Button - 9""), 0)",,,,2022-11-01 14:44:23,2022-11-01 14:44:24,1.429s,PASSED
+closeApplication(),,,,2022-11-01 14:44:24,2022-11-01 14:44:25,0.617s,PASSED

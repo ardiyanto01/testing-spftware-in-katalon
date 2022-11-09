@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+duoapp,,,,2022-11-01 12:37:08,2022-11-01 12:38:53,1m - 45.153s,FAILED
+,,,,,,,
+Test Cases/calculator/ testing gunung sahari,,,,2022-11-01 12:37:08,2022-11-01 12:38:12,1m - 3.548s,FAILED
+"startApplication(""C:\Users\acer\AppData\Roaming\npm\node_modules\appium\testingggg\EduApp\app-pendaki.apk"", true)",,,,2022-11-01 12:37:09,2022-11-01 12:38:12,1m - 2.784s,FAILED
+,,,,,,,
+Test Cases/calculator/chosetheme,,,,2022-11-01 12:38:12,2022-11-01 12:38:53,40.730s,PASSED
+"startApplication(""EduApp\calculator.apk"", false)",,,,2022-11-01 12:38:13,2022-11-01 12:38:43,29.625s,PASSED
+"tap(findTestObject(""calculators/android.widget.Button - 8""), 0)",,,,2022-11-01 12:38:43,2022-11-01 12:38:48,4.932s,PASSED
+"tap(findTestObject(""calculators/android.widget.Button -""), 0)",,,,2022-11-01 12:38:48,2022-11-01 12:38:49,1.768s,PASSED
+"tap(findTestObject(""calculators/android.widget.Button - 9""), 0)",,,,2022-11-01 12:38:49,2022-11-01 12:38:51,1.489s,PASSED
+closeApplication(),,,,2022-11-01 12:38:51,2022-11-01 12:38:53,1.848s,PASSED

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="duoapp" time="72.555" tests="2" failures="0" errors="0">
+   <testsuite name="duoapp" tests="2" failures="0" errors="0" time="72.555" skipped="0" timestamp="2022-11-01 14:43:12" hostname="acer - DESKTOP-C3DFECJ" id="Test Suites/duoapp">
+      <properties>
+         <property name="deviceName" value="samsung SM-J610F (Android 10)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\acer\\AppData\\Roaming\\npm\\node_modules\\appium\\testingggg\\Reports\\20221101_144250\\duoapp\\20221101_144250"/>
+         <property name="logFiles" value="C:\\Users\\acer\\AppData\\Roaming\\npm\\node_modules\\appium\\testingggg\\Reports\\20221101_144250\\duoapp\\20221101_144250\\appium.log, C:\\Users\\acer\\AppData\\Roaming\\npm\\node_modules\\appium\\testingggg\\Reports\\20221101_144250\\duoapp\\20221101_144250\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="acer - DESKTOP-C3DFECJ"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.22.3&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}"/>
+         <property name="katalonVersion" value="8.3.5.208"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.22.3"/>
+         <property name="deviceModel" value="SM-J610F"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="deviceManufacturer" value="samsung"/>
+         <property name="deviceId" value="aeefd8b1"/>
+         <property name="deviceName" value="samsung SM-J610F (Android 10)"/>
+         <property name="deviceOSVersion" value="10"/>
+      </properties>
+      <testcase name="Test Cases/calculator/ record testing" time="43.36" classname="Test Cases/calculator/ record testing" status="PASSED">
+         <system-out><![CDATA[2022-11-01 14:43:13 - [TEST_CASE][PASSED] - Test Cases/calculator/ record testing: Test Cases/calculator/ record testing
+
+2022-11-01 14:43:13 - [TEST_STEP][PASSED] - startApplication("C:\Users\acer\AppData\Roaming\npm\node_modules\appium\testingggg\EduApp\app-pendaki.apk", true): Started app at: 'C:\Users\acer\AppData\Roaming\npm\node_modules\appium\testingggg\EduApp\app-pendaki.apk'
+
+2022-11-01 14:43:14 - [MESSAGE][INFO] - User set preference: ['deviceId', '']
+
+2022-11-01 14:43:14 - [MESSAGE][INFO] - Detected NodeJS location: "C:\Program Files\nodejs\node.exe"
+
+2022-11-01 14:43:16 - [MESSAGE][INFO] - Appium server started on port 58,144
+
+2022-11-01 14:43:45 - [MESSAGE][PASSED] - Started app at: 'C:\Users\acer\AppData\Roaming\npm\node_modules\appium\testingggg\EduApp\app-pendaki.apk'
+
+2022-11-01 14:43:45 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/yah testing record/android.widget.ImageButton"), 0): Tapped on element 'Object Repository/yah testing record/android.widget.ImageButton'
+
+2022-11-01 14:43:45 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-11-01 14:43:47 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/yah testing record/android.widget.ImageButton'
+
+2022-11-01 14:43:47 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/yah testing record/android.widget.CheckedTextView - Peralatan"), 0): Tapped on element 'Object Repository/yah testing record/android.widget.CheckedTextView - Peralatan'
+
+2022-11-01 14:43:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-11-01 14:43:49 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/yah testing record/android.widget.CheckedTextView - Peralatan'
+
+2022-11-01 14:43:49 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/yah testing record/android.widget.TextView - Tenda"), 0): Tapped on element 'Object Repository/yah testing record/android.widget.TextView - Tenda'
+
+2022-11-01 14:43:50 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-11-01 14:43:52 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/yah testing record/android.widget.TextView - Tenda'
+
+2022-11-01 14:43:52 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2022-11-01 14:43:56 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/calculator/chosetheme" time="28.552" classname="Test Cases/calculator/chosetheme" status="PASSED">
+         <system-out><![CDATA[2022-11-01 14:43:56 - [TEST_CASE][PASSED] - Test Cases/calculator/chosetheme: Test Cases/calculator/chosetheme
+
+2022-11-01 14:43:57 - [TEST_STEP][PASSED] - startApplication("EduApp\calculator.apk", false): Started app at: 'C:\Users\acer\AppData\Roaming\npm\node_modules\appium\testingggg\EduApp\calculator.apk'
+
+2022-11-01 14:43:57 - [MESSAGE][INFO] - User set preference: ['deviceId', '']
+
+2022-11-01 14:43:57 - [MESSAGE][INFO] - Detected NodeJS location: "C:\Program Files\nodejs\node.exe"
+
+2022-11-01 14:43:58 - [MESSAGE][INFO] - Appium server started on port 58,375
+
+2022-11-01 14:44:19 - [MESSAGE][PASSED] - Started app at: 'C:\Users\acer\AppData\Roaming\npm\node_modules\appium\testingggg\EduApp\calculator.apk'
+
+2022-11-01 14:44:19 - [TEST_STEP][PASSED] - tap(findTestObject("calculators/android.widget.Button - 8"), 0): Tapped on element 'Object Repository/calculators/android.widget.Button - 8'
+
+2022-11-01 14:44:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-11-01 14:44:21 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/calculators/android.widget.Button - 8'
+
+2022-11-01 14:44:21 - [TEST_STEP][PASSED] - tap(findTestObject("calculators/android.widget.Button -"), 0): Tapped on element 'Object Repository/calculators/android.widget.Button -'
+
+2022-11-01 14:44:21 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-11-01 14:44:23 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/calculators/android.widget.Button -'
+
+2022-11-01 14:44:23 - [TEST_STEP][PASSED] - tap(findTestObject("calculators/android.widget.Button - 9"), 0): Tapped on element 'Object Repository/calculators/android.widget.Button - 9'
+
+2022-11-01 14:44:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-11-01 14:44:24 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/calculators/android.widget.Button - 9'
+
+2022-11-01 14:44:24 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2022-11-01 14:44:25 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-11-01 14:43:12 - [TEST_SUITE][PASSED] - duoapp: Test Cases/calculator/chosetheme]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
