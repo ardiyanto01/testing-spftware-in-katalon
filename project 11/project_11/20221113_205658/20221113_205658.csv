@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+project_11,,,,2022-11-13 20:57:12,2022-11-13 20:58:49,1m - 36.760s,PASSED
+,,,,,,,
+Test Cases/ end_projectyak,,,,2022-11-13 20:57:13,2022-11-13 20:58:48,1m - 35.532s,PASSED
+"startExistingApplication(""com.shopee.id"", STOP_ON_FAILURE)",,,,2022-11-13 20:57:13,2022-11-13 20:57:39,25.831s,PASSED
+"tap(findTestObject(""shopenya_kaka/android.widget.ImageViewPULSA,TAGIHANDANTIKET""), 0)",,,,2022-11-13 20:57:39,2022-11-13 20:57:55,16.394s,PASSED
+"tap(findTestObject(""shopenya_kaka/android.widget.Image - iconPULSA""), 0)",,,,2022-11-13 20:57:55,2022-11-13 20:58:17,21.335s,PASSED
+"tap(findTestObject(""shopenya_kaka/android.widget.Image - ic_digi_search_closeSILANGDELETE""), 0)",,,,2022-11-13 20:58:17,2022-11-13 20:58:22,5.008s,PASSED
+"tap(findTestObject(""shopenya_kaka/android.widget.TextView - 085888569631""), 0)",,,,2022-11-13 20:58:22,2022-11-13 20:58:26,3.837s,PASSED
+"tap(findTestObject(""shopenya_kaka/android.view.View10000""), 0)",,,,2022-11-13 20:58:26,2022-11-13 20:58:44,18.000s,PASSED
+"tap(findTestObject(""shopenya_kaka/android.widget.Button - Lanjutkan""), 0)",,,,2022-11-13 20:58:44,2022-11-13 20:58:46,2.698s,PASSED
+closeApplication(),,,,2022-11-13 20:58:46,2022-11-13 20:58:48,1.742s,PASSED
+,,,,,,,
+Test Cases/happyday_shop/happy_dayshop,,,,2022-11-13 20:58:48,2022-11-13 20:58:49,0.568s,PASSED
+return null,,,,2022-11-13 20:58:49,2022-11-13 20:58:49,0.001s,PASSED

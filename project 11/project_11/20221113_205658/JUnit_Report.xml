@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="project_11" time="96.76" tests="2" failures="0" errors="0">
+   <testsuite name="project_11" tests="2" failures="0" errors="0" time="96.76" skipped="0" timestamp="2022-11-13 20:57:12" hostname="acer - DESKTOP-C3DFECJ" id="Test Suites/project_11">
+      <properties>
+         <property name="deviceName" value="samsung SM-J610F (Android 10)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\acer\\AppData\\Roaming\\npm\\node_modules\\appium\\testingggg\\Reports\\20221113_205658\\project_11\\20221113_205658"/>
+         <property name="logFiles" value="C:\\Users\\acer\\AppData\\Roaming\\npm\\node_modules\\appium\\testingggg\\Reports\\20221113_205658\\project_11\\20221113_205658\\appium.log, C:\\Users\\acer\\AppData\\Roaming\\npm\\node_modules\\appium\\testingggg\\Reports\\20221113_205658\\project_11\\20221113_205658\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="acer - DESKTOP-C3DFECJ"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.22.3&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}"/>
+         <property name="katalonVersion" value="8.3.5.208"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.22.3"/>
+         <property name="deviceModel" value="SM-J610F"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="deviceManufacturer" value="samsung"/>
+         <property name="deviceId" value="aeefd8b1"/>
+         <property name="deviceName" value="samsung SM-J610F (Android 10)"/>
+         <property name="deviceOSVersion" value="10"/>
+      </properties>
+      <testcase name="Test Cases/ end_projectyak" time="95.532" classname="Test Cases/ end_projectyak" status="PASSED">
+         <system-out><![CDATA[2022-11-13 20:57:13 - [TEST_CASE][PASSED] - Test Cases/ end_projectyak: Test Cases/ end_projectyak
+
+2022-11-13 20:57:13 - [TEST_STEP][PASSED] - startExistingApplication("com.shopee.id", STOP_ON_FAILURE): Starting app with application ID: 'com.shopee.id'
+
+2022-11-13 20:57:14 - [MESSAGE][INFO] - User set preference: ['deviceId', '']
+
+2022-11-13 20:57:14 - [MESSAGE][INFO] - Detected NodeJS location: "C:\Program Files\nodejs\node.exe"
+
+2022-11-13 20:57:16 - [MESSAGE][INFO] - Appium server started on port 59,112
+
+2022-11-13 20:57:39 - [MESSAGE][PASSED] - Starting app with application ID: 'com.shopee.id'
+
+2022-11-13 20:57:39 - [TEST_STEP][PASSED] - tap(findTestObject("shopenya_kaka/android.widget.ImageViewPULSA,TAGIHANDANTIKET"), 0): Tapped on element 'Object Repository/shopenya_kaka/android.widget.ImageViewPULSA,TAGIHANDANTIKET'
+
+2022-11-13 20:57:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-11-13 20:57:55 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/shopenya_kaka/android.widget.ImageViewPULSA,TAGIHANDANTIKET'
+
+2022-11-13 20:57:55 - [TEST_STEP][PASSED] - tap(findTestObject("shopenya_kaka/android.widget.Image - iconPULSA"), 0): Tapped on element 'Object Repository/shopenya_kaka/android.widget.Image - iconPULSA'
+
+2022-11-13 20:57:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-11-13 20:58:17 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/shopenya_kaka/android.widget.Image - iconPULSA'
+
+2022-11-13 20:58:17 - [TEST_STEP][PASSED] - tap(findTestObject("shopenya_kaka/android.widget.Image - ic_digi_search_closeSILANGDELETE"), 0): Tapped on element 'Object Repository/shopenya_kaka/android.widget.Image - ic_digi_search_closeSILANGDELETE'
+
+2022-11-13 20:58:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-11-13 20:58:22 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/shopenya_kaka/android.widget.Image - ic_digi_search_closeSILANGDELETE'
+
+2022-11-13 20:58:22 - [TEST_STEP][PASSED] - tap(findTestObject("shopenya_kaka/android.widget.TextView - 085888569631"), 0): Tapped on element 'Object Repository/shopenya_kaka/android.widget.TextView - 085888569631'
+
+2022-11-13 20:58:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-11-13 20:58:26 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/shopenya_kaka/android.widget.TextView - 085888569631'
+
+2022-11-13 20:58:26 - [TEST_STEP][PASSED] - tap(findTestObject("shopenya_kaka/android.view.View10000"), 0): Tapped on element 'Object Repository/shopenya_kaka/android.view.View10000'
+
+2022-11-13 20:58:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-11-13 20:58:44 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/shopenya_kaka/android.view.View10000'
+
+2022-11-13 20:58:44 - [TEST_STEP][PASSED] - tap(findTestObject("shopenya_kaka/android.widget.Button - Lanjutkan"), 0): Tapped on element 'Object Repository/shopenya_kaka/android.widget.Button - Lanjutkan'
+
+2022-11-13 20:58:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-11-13 20:58:46 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/shopenya_kaka/android.widget.Button - Lanjutkan'
+
+2022-11-13 20:58:46 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2022-11-13 20:58:48 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/happyday_shop/happy_dayshop" time="0.568" classname="Test Cases/happyday_shop/happy_dayshop" status="PASSED">
+         <system-out><![CDATA[2022-11-13 20:58:48 - [TEST_CASE][PASSED] - Test Cases/happyday_shop/happy_dayshop: Test Cases/happyday_shop/happy_dayshop
+
+2022-11-13 20:58:49 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-11-13 20:57:12 - [TEST_SUITE][PASSED] - project_11: Test Cases/happyday_shop/happy_dayshop]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
